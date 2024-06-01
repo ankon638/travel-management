@@ -1,0 +1,44 @@
+[
+    {
+        "service_id": "04",
+        "title": "14 Days North Spain",
+        "img": "https://themes.themeenergy.com/bookyourtravel/travel-tours/wp-content/uploads/sites/26/2019/04/tac5-600x500.jpg",
+        "price": "20.00",
+        "description": "Spain or the Kingdom of Spain (Reino de España),[f] is a country primarily located in southwestern Europe with parts of territory in the Atlantic Ocean and across the Mediterranean Sea.[11][g] The largest part of Spain is situated on the Iberian Peninsula; its territory also includes the Canary Islands in the Atlantic Ocean, the Balearic Islands in the Mediterranean Sea, and the autonomous cities of Ceuta and Melilla in Africa. The country's mainland is bordered to the south by Gibraltar; to the south and east by the Mediterranean Sea; to the north by France, Andorra and the Bay of Biscay; and to the west by Portugal and the Atlantic Ocean. With an area of 505,990 km2 (195,360 sq mi), Spain is the second-largest country in the European Union (EU) and, with a population exceeding 47.4 million, the fourth-most populous EU member state. Spain's capital and largest city is Madrid; other major urban areas include Barcelona, Valencia, Seville, Zaragoza, Málaga, Murcia, Palma de Mallorca, Las Palmas de Gran Canaria and Bilbao."
+    },
+    {
+        "service_id": "05",
+        "title": "4 Days Barcelona",
+        "img": "https://themes.themeenergy.com/bookyourtravel/travel-tours/wp-content/uploads/sites/26/2019/04/tac6-600x500.jpg",
+        "price": "20.00",
+        "description": "Barcelona is a city on the coast of northeastern Spain. It is the capital and largest city of the autonomous community of Catalonia, as well as the second most populous municipality of Spain. With a population of 1.6 million within city limits,[7] its urban area extends to numerous neighbouring municipalities within the Province of Barcelona and is home to around 4.8 million people,[3] making it the fifth most populous urban area in the European Union after Paris, the Ruhr area, Madrid, and Milan.[3] It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range, the tallest peak of which is 512 metres (1,680 feet) high."
+    },
+    {
+        "service_id": "01",
+        "title": "8 Days Sardinia Break",
+        "img": "https://themes.themeenergy.com/bookyourtravel/travel-tours/wp-content/uploads/sites/26/2019/04/tac2-600x500.jpg",
+        "price": "200.00",
+        "description": "Archaeological evidence of prehistoric human settlement on the island of Sardinia is present in the form of nuraghes and other prehistoric monuments, which dot the land. The recorded history of Sardinia begins with its contacts with the various people who sought to dominate western Mediterranean trade in Classical Antiquity: Phoenicians, Punics and Romans. Initially under the political and economic alliance with the Phoenician cities, it was partly conquered by Carthage in the late 6th century BC and then entirely by Rome after the First Punic War (238 BC). The island was included for centuries in the Roman province of Sardinia and Corsica, which would be incorporated into the diocese of Italia suburbicaria in 3rd and 4th centuries."
+    },
+    {
+        "service_id": "02",
+        "title": "9 Days Azores Islands",
+        "img": "https://themes.themeenergy.com/bookyourtravel/travel-tours/wp-content/uploads/sites/26/2019/04/tac9-600x500.jpg",
+        "price": "150.00",
+        "description": "The Azores Portuguese: Açores Portuguese pronunciation: officially the Autonomous Region of the Azores (Região Autónoma dos Açores), is one of the two autonomous regions of Portugal (along with Madeira). It is an archipelago composed of nine volcanic islands in the Macaronesia region of the North Atlantic Ocean, about 1,400 km (870 mi) west of Lisbon, about 1,500 km (930 mi) northwest of Morocco, and about 1,930 km (1,200 mi) southeast of Newfoundland, Canada. Its main industries are agriculture, dairy farming, livestock, fishing, and tourism, which has become a major service activity in the region. The government of the Azores employs a large percentage of the population directly or indirectly in the service and tertiary sectors. The largest city of the Azores is Ponta Delgada. The culture, dialect, cuisine, and traditions of the Azorean islands vary considerably, because these remote islands were settled sporadically over a span of two centuries."
+    },
+    {
+        "service_id": "03",
+        "title": "2 Days in Nicosia",
+        "img": "https://themes.themeenergy.com/bookyourtravel/travel-tours/wp-content/uploads/sites/26/2019/04/tac5-600x500.jpg",
+        "price": "30.00",
+        "description": "Nicosia is the southeasternmost of all EU member states' capitals. It has been continuously inhabited for over 4,500 years and has been the capital of Cyprus since the 10th century. The Greek Cypriot and Turkish Cypriot communities of Nicosia segregated into the south and north of the city respectively in early 1964, following the fighting of the Cyprus crisis of 1963 64 that broke out in the city. This separation became a militarised border between the Republic of Cyprus and Northern Cyprus after Turkey invaded the island of Cyprus in 1974, illegally occupying the north of the island, including northern Nicosia."
+    },
+    {
+        "service_id": "06",
+        "title": "7 Days Besparmak Trail",
+        "img": "https://themes.themeenergy.com/bookyourtravel/travel-tours/wp-content/uploads/sites/26/2019/04/tac3-600x500.jpg",
+        "price": "20.00",
+        "description": "Beşparmak Mountains are a ridge of many spurs located in the Muğla and Aydın provinces of Turkey, running in an east–west direction along the north shore of the former Latmian Gulf[3] on the coast of Caria, which became part of Hellenised Ionia. The city of Latmus, located on the south slopes of Mount Latmus 25 kilometres (16 mi) east of Miletus,[4] was originally a port on the narrow gulf, as reported by Strabo.[5] He also states that Latmus is the same as Mount Phthires in the Catalogue of Trojans. The mouth of the Gulf of Latmus began to fill with sediment from the Maeander (Büyük Menderes) river, which emptied into it, even in classical antiquity. By 300 CE Lake Bafa had formed behind the estuary marshes.[7] It gradually diminished in salinity and would now be fresh water except that canals to the Aegean introduce a saline element. The ecology remains a brackish-water one and the lake has been made a bird sanctuary. Its area of 7 square kilometres (2.7 sq mi) with a maximum depth of 25 metres (82 ft) still extends from the base of the west spur of Mount Latmus, although, having lost its port, the ancient medium-sized town of Heraclea ad Latmum has declined in size and facilities to the small village of Kapikiri."
+    }
+]
